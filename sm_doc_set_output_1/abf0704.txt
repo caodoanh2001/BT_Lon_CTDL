@@ -7,9 +7,7 @@ between
 the
 years
 of
-1945
 and
-1948
 Orwell
 got
 the
@@ -205,7 +203,6 @@ that
 Orwell
 observed
 in
-1948
 Perhaps
 people
 would
@@ -249,7 +246,7 @@ of
 a
 future
 terrible
-[sic]
+sic
 because
 it
 rests
@@ -297,14 +294,12 @@ the
 fact
 that
 in
-1983
 the
 average
 American
 household
 spent
 over
-7
 hours
 in
 front
@@ -335,7 +330,6 @@ television
 for
 more
 that
-58
 hours
 a
 week
@@ -343,7 +337,6 @@ That
 is
 more
 that
-2
 days
 straight
 without
@@ -368,11 +361,10 @@ could
 be
 seen
 in
-1984:
 Is
 Big
 Brother
-watching?
+watching
 If
 you
 are
@@ -419,7 +411,6 @@ Is
 Watching”
 tee
 shirt
-$10
 Canadians
 remit
 us
@@ -1005,7 +996,7 @@ was
 in
 charge
 of
-Airstrip1
+Airstrip
 and
 wanted
 to
@@ -1121,7 +1112,8 @@ fingers
 am
 I
 holding
-up?”
+up
+”
 Winston
 replied
 “Five”
@@ -1190,8 +1182,8 @@ everywhere
 in
 every
 house
-(except
-proles)
+except
+proles
 every
 street
 wall
@@ -1343,7 +1335,6 @@ English
 in
 the
 year
-2050
 Newspeak
 is
 another
@@ -1710,7 +1701,7 @@ of
 unemployment
 of
 the
-1930’s
+’s
 to
 the
 ignorance
